@@ -1,6 +1,6 @@
-# food_mobile
+# element-repair
 
-> 手机点餐页面
+> element-vue template
 
 ## Build Setup
 
